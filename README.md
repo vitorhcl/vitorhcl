@@ -4,7 +4,7 @@
 - 🌱 Estou estudando:
   - HTML, CSS e JS
   - C#
-  - Go
+  - Java
   - Python
 <div align="center">
   <a href="https://github.com/vitorhcl">
