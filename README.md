@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Cursando Desenvolvimento de Sistemas
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas na Fatec
 - 🌱 Estou estudando:
   - HTML, CSS e JS
   - C#
